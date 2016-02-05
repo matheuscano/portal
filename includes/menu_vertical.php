@@ -32,20 +32,20 @@
       </li>
       <li class="menu-list"><a href=""><i class="fa fa-picture-o"></i> <span>Imagens</span></a>
         <ul class="sub-menu-list">
-          <li><a href="blank_page.html"> Cadastrar Imagem</a></li>
-          <li><a href="boxed_view.html"> Listar Imagens </a></li>
+          <li><a href="#"> Cadastrar Imagem</a></li>
+          <li><a href="#"> Listar Imagens </a></li>
         </ul>
       </li>
       <li class="menu-list"><a href=""><i class="fa fa-file-text"></i> <span>Notícias</span></a>
         <ul class="sub-menu-list">
-          <li><a href="general.html"> Cadastrar Notícias</a></li>
-          <li><a href="buttons.html"> Listar Notícias</a></li>
+          <li><a href="../../br.com.portal.noticias/view/cad_noticias.php"> Cadastrar Notícias</a></li>
+          <li><a href="../../br.com.portal.noticias/view/list_noticias.php"> Listar Notícias</a></li>
         </ul>
       </li>
       <li class="menu-list"><a href=""><i class="fa fa-users"></i> <span>Usuários</span></a>
         <ul class="sub-menu-list">
-          <li><a href="grids.html"> Cadastrar Usuário</a></li>
-          <li><a href="gallery.html"> Listar Usuários</a></li>
+          <li><a href="../../br.com.portal.user/view/cad_user.php"> Cadastrar Usuário</a></li>
+          <li><a href="../../br.com.portal.user/view/list_user.php"> Listar Usuários</a></li>
         </ul>
       </li>
       <li><a href="login.html"><i class="fa fa-sign-in"></i> <span>Login</span></a></li>

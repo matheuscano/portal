@@ -6,7 +6,7 @@
 <meta name="description" content="">
 <meta name="author" content="ThemeBucket">
 <link rel="shortcut icon" href="#" type="image/png">
-<title>Lista de Categorias</title>
+<title>Lista de Usuários<</title>
 
 <!--data table-->
 <link rel="stylesheet" href="../../js/data-tables/DT_bootstrap.css" />
@@ -43,10 +43,10 @@
     
     <!-- page heading start-->
     <div class="page-heading">
-      <h3> Lista de Categorias </h3>
+      <h3> Lista de Usuários< </h3>
       <ul class="breadcrumb">
         <li> <a href="../../br.com.portal.principal/view/index.php">Index</a> </li>
-        <li> <a href="#">Lista de Categorias</a> </li>
+        <li> <a href="#">Lista de Usuários</a> </li>
       </ul>
     </div>
     <!-- page heading end--> 
@@ -56,7 +56,7 @@
       <div class="row">
         <div class="col-sm-12">
           <section class="panel">
-            <header class="panel-heading"> Lista de Categorias <span class="tools pull-right"></span> </header>
+            <header class="panel-heading"> Lista de Usuários< <span class="tools pull-right"></span> </header>
             <div class="panel-body">
               <div class="adv-table editable-table ">
                 <div class="clearfix">
