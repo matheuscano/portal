@@ -34,7 +34,7 @@
   <!-- left side start-->
   
   <?php
-	include 'menu_vertical.php';
+	include '../../includes/menu_vertical.php';
 	?>
   
   <!-- left side end--> 
@@ -45,7 +45,7 @@
     <!-- header section start-->
     
     <?php
-	include 'menu_horizontal.php';
+	include '../../includes/menu_horizontal.php';
 	?>
     
     <!-- header section end--> 
