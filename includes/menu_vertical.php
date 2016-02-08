@@ -48,7 +48,7 @@
           <li><a href="../../br.com.portal.user/view/list_user.php"> Listar Usuários</a></li>
         </ul>
       </li>
-      <li><a href="login.html"><i class="fa fa-sign-in"></i> <span>Login</span></a></li>
+      <li><a href="../../br.com.portal.principal/view/login.php"><i class="fa fa-sign-in"></i> <span>Login</span></a></li>
     </ul>
     <!--sidebar nav end--> 
     
